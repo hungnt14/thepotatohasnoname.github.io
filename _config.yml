@@ -45,8 +45,6 @@ content:
         caption: 2020 - 2024
         caption: >
          UIT is a university member of Vietnam National University of Ho Chi Minh City (VNUHCM), UIT takes charge of training high-ranked labor force in information technology (IT), who are to contribute to the development of Vietnam's IT industry.
-        description: | # this will include new lines to allow paragraphs
-          I'm working hard to achieve knowledge in Computer Science and its related fields.
       - layout: top-left
         title: Le Quy Don Highschool for the Gifted
         sub_title: Informatics
