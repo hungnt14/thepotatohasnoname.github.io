@@ -7,10 +7,10 @@ version: 2
 
 # Personal info
 name: Nguyen Tien Hung
-title: Your job title
+title: Student
 email: nguyentienhung.quynhon@gmail.com
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+phone: (+84) 915 730 264
 # phone_title: Phone (Phone title override)
 website: https://thepotatohasnoname.github.io
 # website_title: Web (Website title override)
@@ -39,19 +39,19 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: top-left
         title: University of Information Technology - Vietnam National University HCMC
         sub_title: BSc, Computer Science
         caption: 2020 - 2024
-        quote: >
+        caption: >
          UIT is a university member of Vietnam National University of Ho Chi Minh City (VNUHCM), UIT takes charge of training high-ranked labor force in information technology (IT), who are to contribute to the development of Vietnam's IT industry.
         description: | # this will include new lines to allow paragraphs
           I'm working hard to achieve knowledge in Computer Science and its related fields.
-      - layout: top-right
+      - layout: top-left
         title: Le Quy Don Highschool for the Gifted
         sub_title: Informatics
         caption: 2017 - 2020
-        quote: >
+        caption: >
          My highschool, which is focus on Informatics
   - title: A Little More About Me
     layout: text
